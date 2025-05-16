@@ -6,6 +6,11 @@
   <h4>🌐 This is the <code>English</code> version of the README. | <a href="README.ko.md">한국어 버전</a></h4>
 </div>
 
+<div align="right">
+  📂 <a href="https://drive.google.com/file/d/1qNfPsFah7tE8G4H3IgQdcZPS90QSL6RP/view?usp=sharing">Project Deck</a> &nbsp;|&nbsp;
+  📂 <a href="https://drive.google.com/file/d/1zSuOME8llGiVypyl2mmx4qXMjXCnxk3m/view?usp=sharing">Presentation</a>
+</div>
+
 ## 🎯 Goal
 
 <pre><code><b>Unexpected emergencies</b> can happen anywhere and at any time.<br>
